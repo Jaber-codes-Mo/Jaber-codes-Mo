@@ -1,5 +1,5 @@
 # Mohamed Ali Ben Jaber 👋
-
+---
 ## 🌟 Développeur Front-End & Full Stack
 
 **Passionné par le MEAN Stack** (MongoDB, Express, Angular, Node.js) | Étudiant en Master Professionnel en E-commerce
@@ -15,10 +15,10 @@
 Salut, je suis Mohamed Ali Ben Jaber, un développeur Front-End spécialisé en Angular. J'adore relever des défis et innover dans le domaine du développement web. Je suis motivé par l'envie de toujours me perfectionner et d'apprendre en continu.
 
 Je travaille sur des projets comme **TennisDreamer**, une plateforme dédiée aux académies de tennis, tout en explorant de nouvelles technologies et en collaborant avec des équipes dynamiques.
-
+---
 
 ## 🛠️ Compétences
-
+---
 <div align="center">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="50" />
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="50" />
